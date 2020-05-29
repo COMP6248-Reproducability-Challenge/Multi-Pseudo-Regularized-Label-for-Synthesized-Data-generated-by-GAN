@@ -1,1 +1,0 @@
-ResNet-50 model pretrained on Imagenet £ºhttp://www.vlfeat.org/matconvnet/models/imagenet-resnet-50-dag.mat
